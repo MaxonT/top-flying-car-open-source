@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Top Flying Car Open Source">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0a0e14"/></linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffe08a"/><stop offset="0.6" stop-color="#f0b429"/><stop offset="1" stop-color="#d97706"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0b429" stop-opacity="0.9"/><stop offset="1" stop-color="#d97706" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="340" fill="url(#bg)"/>
+<g><polygon points="150,210 172,199 150,188 128,199" fill="#fde68a"/><polygon points="128,199 150,210 150,254 128,243" fill="#92400e"/><polygon points="172,199 150,210 150,254 172,243" fill="#d97706"/><polygon points="172,221 194,210 172,199 150,210" fill="#fcd34d"/><polygon points="150,210 172,221 172,265 150,254" fill="#92400e"/><polygon points="194,210 172,221 172,265 194,254" fill="#d97706"/><polygon points="194,232 216,221 194,210 172,221" fill="#d97706"/><polygon points="172,221 194,232 194,276 172,265" fill="#92400e"/><polygon points="216,221 194,232 194,276 216,265" fill="#d97706"/><polygon points="150,181 172,170 150,159 128,170" fill="#d97706"/><polygon points="128,170 150,181 150,225 128,214" fill="#92400e"/><polygon points="172,170 150,181 150,225 172,214" fill="#d97706"/><polygon points="172,192 194,181 172,170 150,181" fill="#fde68a"/><polygon points="150,181 172,192 172,236 150,225" fill="#92400e"/><polygon points="194,181 172,192 172,236 194,225" fill="#d97706"/><polygon points="150,153 172,142 150,131 128,142" fill="#d97706"/><polygon points="128,142 150,153 150,197 128,186" fill="#92400e"/><polygon points="172,142 150,153 150,197 172,186" fill="#d97706"/></g>
+  <text x="330" y="170" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="60" font-weight="800" fill="url(#word)" letter-spacing="-1">Top Flying Car Open Source</text>
+  <rect x="333" y="184" width="420" height="3" rx="1.5" fill="url(#rule)"/>
+  <text x="333" y="218" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Open-source tools for flying cars, eVTOL and drones: flight controllers (PX4, ArduPilot, Betaflight, INAV), ground stations and SDKs, simulators and aero design tools, ranked by GitHub stars</text>
+  <text x="333" y="260" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#2dd4bf">★ 60 entries · 125.3k stars · EN + ZH · rebuilt daily</text>
+</svg>
