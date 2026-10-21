@@ -9,5 +9,5 @@
   <text x="330" y="170" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="60" font-weight="800" fill="url(#word)" letter-spacing="-1">Top Flying Car Open Source</text>
   <rect x="333" y="184" width="420" height="3" rx="1.5" fill="url(#rule)"/>
   <text x="333" y="218" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Open-source tools for flying cars, eVTOL and drones: flight controllers (PX4, ArduPilot, Betaflight, INAV), ground stations and SDKs, simulators and aero design tools, ranked by GitHub stars</text>
-  <text x="333" y="260" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#2dd4bf">★ 60 entries · 125.3k stars · EN + ZH · rebuilt daily</text>
+  <text x="333" y="260" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#2dd4bf">★ 60 entries · 125.5k stars · EN + ZH · rebuilt daily</text>
 </svg>
